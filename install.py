@@ -5,7 +5,7 @@ def print_banner(text):
     print(banner)
 
 def main():
-    repo_name = "Script Essential"
+    repo_name = "Script Essentials"
     dev_name = "Sanmeet Pannu"
 
     print_banner(repo_name)
