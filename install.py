@@ -37,7 +37,7 @@ def main():
         if option == "1":
             install_ksweb_apk()
         elif option == "2":
-            # Handle HTTPCanary option
+            # Handle HTTPCanary opt ion
             pass
         else:
             print("Invalid option.")
